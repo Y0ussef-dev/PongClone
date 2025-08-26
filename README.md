@@ -19,9 +19,9 @@ This project was created to learn **Unity game development** and demonstrate ski
 - Player 2 is controlled by a CPU
 
 ---
+### Gameplay GIF  
+![Gameplay Demo](Assets/Screenshots/gameplay.gif)  
 
 ## 📸 Screenshots  
-![Gameplay Screenshot](Screenshots/gameplay.png)  
+![Gameplay Screenshot](Assets/Screenshots/gameplay.png)  
 
-### Gameplay GIF  
-![Gameplay Demo](Screenshots/gameplay.gif)  
