@@ -21,3 +21,7 @@ This project was created to learn **Unity game development** and demonstrate ski
 ---
 
 ## 📸 Screenshots  
+![Gameplay Screenshot](Screenshots/gameplay.png)  
+
+### Gameplay GIF  
+![Gameplay Demo](Screenshots/gameplay.gif)  
