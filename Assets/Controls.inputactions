@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "MoveUp",
+            "id": "6a11867a-9074-4031-848f-cfb9edda0577",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a98d904c-0df2-4418-a139-4d07ab816b28",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "00f0cdee-e868-457d-88ca-b9ab81f3fd4e",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
